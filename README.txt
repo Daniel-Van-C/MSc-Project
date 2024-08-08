@@ -1,3 +1,5 @@
+MSc Thesis 2022-23: The thesis for this project.
+
 PYTHON FILES
 
 fetch_movies_kg: Retrieves KG properties Section 4.2 (Knowledge Graph Querying)
